@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
 
-https://bmi-caculator-seven.vercel.app/sitemap.xml
+Sitemap: https://bmi-caculator-seven.vercel.app/sitemap.xml
