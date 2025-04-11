@@ -3,4 +3,4 @@ Allow: /
 Allow: /sitemap.xml
 Craw-delay: 10
 
-Sitemap: https://bmi-caculator-gules.vercel.app/sitemap.xml
+Sitemap: https://bmi-caculator-fawn.vercel.app/sitemap.xml
