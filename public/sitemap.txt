@@ -1,1 +1,1 @@
-https://bmi-caculator-fawn.vercel.app/
+https://bmi-caculator-puce.vercel.app/
